@@ -1,0 +1,1 @@
+https://docs.localstack.cloud/user-guide/aws/ec2/
